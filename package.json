@@ -1,14 +1,14 @@
 {
-  "name": "utility",
+  "name": "SFDC-Toolbox",
   "main": "./lib/utility",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A toolbox to be used with the Force.com™ platform",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "utility:toggle"
   },
-  "repository": "",
+  "repository": "https://github.com/GradyD/SFDC-Toolbox",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
