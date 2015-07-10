@@ -1,7 +1,7 @@
 {
   "name": "SFDC-Toolbox",
   "main": "./lib/utility",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A toolbox to be used with the Force.com™ platform",
   "keywords": [],
   "activationCommands": {
